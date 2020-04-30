@@ -1,0 +1,6 @@
+
+<view class="switch-container">
+<view class="switch-ba" bindtap="handle" style="background: {{checked?color:'#E7E7E9'}};">
+    <view class="switch-circle" style="left:{{checked?38:-4}}rpx"></view>
+    </view>
+</view>

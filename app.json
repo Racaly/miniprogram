@@ -1,0 +1,14 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "微信小程序",
+        "navigationBarBackgroundColor": "#FFFFFF"
+    },
+    "networkTimeout": {
+        "request": 5000
+    },
+    "sitemapLocation": "sitemap.json"
+}

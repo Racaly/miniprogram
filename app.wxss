@@ -1,0 +1,9 @@
+page{
+    background: #f6f7fb;
+}
+image{
+    display: block;
+}
+button::after{
+    border:none
+}

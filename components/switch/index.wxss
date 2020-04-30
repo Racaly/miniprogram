@@ -1,0 +1,26 @@
+.switch-container{
+    width: 92rpx;
+    height: 70rpx;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.switch-ba{
+    width: 92rpx;
+    height: 28rpx;
+    border-radius: 14rpx;
+    background: #E7E7E9;
+    position: relative;
+    transition: all 0.2s;
+}
+.switch-circle{
+    width: 56rpx;
+    position: absolute;
+    height: 56rpx;
+    top:-14rpx;
+    left:-4rpx;
+    transition: all 0.2s;
+    border-radius: 50%;
+    background: #FFFFFF;
+    box-shadow: 0 0 4rpx 0 rgba(0,0,0,0.20), 0 4rpx 23rpx 0 rgba(0,0,0,0.08), -2rpx 4rpx 4rpx 0 rgba(0,0,0,0.10);
+}
